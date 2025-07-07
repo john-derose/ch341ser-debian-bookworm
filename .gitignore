@@ -1,0 +1,7 @@
+*.cmd
+*.ko
+*.o
+ch34x.mod
+ch34x.mod.c
+modules.order
+Module.symvers
